@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-### Project Title: Busy Signal
+### Project Title: Busy Signal (https://huanhuan0608.shinyapps.io/app-gr1/)
 
 + Team Group 1 (Spring 2017)
 	+ Ken Chew (kc3040)
